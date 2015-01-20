@@ -1,0 +1,8 @@
+This my first comment.
+Next I put change into this file. Now I'm in dev branch.
+
+How to push data from local machine repo to github repo:
+~git push -u git@github.com:user_name/repo_name master
+
+How to pull changes from github to local machine:
+git pull git@github.com:user_name/repo_name master
